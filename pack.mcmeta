@@ -1,6 +1,7 @@
 {
     "pack": {
-        "pack_format": 22,
+        "pack_format": 42,
+        "supported_formats": { "min_inclusive": 18, "max_inclusive": 42},
         "description": "§4He§cart§6o§egram §aCro§2ssh§3air\n§bt.me/§7lagmaker"
     }
 }
